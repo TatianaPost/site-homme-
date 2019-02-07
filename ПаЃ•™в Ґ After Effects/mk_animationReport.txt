@@ -1,0 +1,38 @@
+Report created: 
+	31-Jan-19	9:18:02 PM
+
+Project name: mk_animation.aep
+
+Source files collected to: 
+	C:\Users\TonYem\Dropbox\WayUP — мастер классы\MK After Effects_310119\MK_31.01.19_Digital_Designer_Evolution_animation
+
+Source files collected: All
+
+Collected comps:  
+	Main_comp
+	Pre-comp 1
+	mian_comp
+	main_Screen_animation
+	man
+	
+Number of collected files:  12
+
+Size of collected files:  230 KB
+
+Collected source files: 
+	C:\Users\TonYem\Downloads\bg_white.png
+	C:\Users\TonYem\Downloads\blue_Bg.png
+	C:\Users\TonYem\Downloads\burger.png
+	C:\Users\TonYem\Downloads\cloud (1).png
+	C:\Users\TonYem\Downloads\cloud.png
+	C:\Users\TonYem\Downloads\Frame.png
+	C:\Users\TonYem\Downloads\hands.png
+	C:\Users\TonYem\Downloads\inner_text.png
+	C:\Users\TonYem\Downloads\main_screen.png
+	C:\Users\TonYem\Downloads\man_body.png
+	C:\Users\TonYem\Downloads\Mask Group.png
+	C:\Users\TonYem\Downloads\top_text.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
